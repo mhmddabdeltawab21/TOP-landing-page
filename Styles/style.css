@@ -1,0 +1,53 @@
+.top-section {
+    background-color: #1f2937;
+}
+
+
+.header {
+    display: flex;
+    padding: 10px 0px 0px 10px;
+}
+
+.h-logo {
+    font-size:  30px;
+    color: #f9faf8;
+    flex:1;
+    padding-left: 20px;
+}
+
+.h-item {
+    font-size: 23px;
+    color:#e5e7eb;
+    padding: 0px 20px 0px 10px;
+    flex-direction: column;
+}
+
+.middle {
+    display: flex;
+    padding: 100px;
+}
+
+.hero-section {
+    flex:1;
+}
+
+.m-hero {
+    font-size: 48px;
+    font-weight:bolder;
+    color: #f9faf8;
+}
+
+.p-hero {
+    font-size:22px;
+    color:#e5e7eb;
+    margin-top: -40px;
+}
+
+.btn {
+    font-size: 24px;
+    background-color: #3882f6;
+    color:white;
+    padding:10px 15px;
+    border: 0px;
+    border-radius: 10px;
+}
