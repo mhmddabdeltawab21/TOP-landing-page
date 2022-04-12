@@ -18,7 +18,7 @@
 .h-item {
     font-size: 23px;
     color:#e5e7eb;
-    padding: 0px 20px 0px 10px;
+    padding: 0px 40px 0px 10px;
     flex-direction: column;
 }
 
@@ -50,4 +50,45 @@
     padding:10px 15px;
     border: 0px;
     border-radius: 10px;
+}
+
+.info-section {
+    background-color: linen;
+ 
+    padding: 10px 20px 0px 20px;
+}
+
+.info-text {
+    display: flex;
+    justify-content: center;
+}
+
+.info-header {
+    font-size: 42px;
+    font-weight: 800;
+    color: #1f2937;
+}
+
+.square-section {
+    display: flex;
+    justify-content: center;
+}
+
+.square {
+    height: 175px;
+    width: 175px;
+    margin: 10px 80px 0px 80px;
+    background-color:linen;
+    border: 3px solid #3882f6;
+    border-radius: 15px;
+}
+
+.square-text {
+    display: flex;
+    justify-content: center;
+}
+
+.sq-subtext {
+    margin: 15px 70px 10px 70px;
+    color:#4b4b4b;
 }
