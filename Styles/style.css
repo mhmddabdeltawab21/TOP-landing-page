@@ -103,3 +103,49 @@
     font-style: italic;
     font-weight: lighter;
 }
+
+.cto-section {
+    display: flex;
+    justify-content: center;
+}
+
+
+.center-square {
+    background-color: #3882f6;
+    padding: 25px 75px 25px 75px;
+    margin-top: 50px;
+    display: inline-flex;
+    border-radius: 5px;
+}
+
+.text {
+    flex:1;
+}
+
+.cto-text {
+    font-size: 28px;
+    color: white;
+}
+
+.cto-text2 {
+    font-size: 20px;
+    margin-top: -23px;
+    color: whitesmoke;
+}
+
+.btn-cont {
+    margin-top: 20px;
+    margin-left: 50px;
+    padding:10px;
+
+}
+
+.cto-btn {
+    padding: 10px 30px 10px 30px;
+    background-color: #3882f6;
+    color: white;
+    font-size:15px;
+    font-weight: 600;
+    border-radius: 10px;
+    border: white solid 1px;
+}
